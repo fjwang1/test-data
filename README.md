@@ -9,6 +9,7 @@
 - `generated/BV11tVczFExN.original-subtitles.md`: 已授权归档的原字幕 Markdown，字幕正文从本地 SRT 原样排版。
 - `generated/BV11tVczFExN.chaptered-original-subtitles.md`: 已授权归档的原字幕章节阅读版，不显示字幕编号和时间戳，仅按章节分组。
 - `generated/BV11tVczFExN.article-original-subtitles.md`: 已授权归档的原字幕文章阅读版，不显示字幕编号和时间戳，按章节合并为连续段落并仅补入逗号、句号。
+- `generated/BV17jTw6REJc.article-original-subtitles.md`: 太吾车神《加盟勇士？詹姆斯到底去哪儿？四大球队最强解析！》原字幕文章阅读版。
 - `scripts/format_srt_to_markdown.py`: 本地 SRT 转 Markdown 工具，用于把已有字幕按编号和时间轴排版。
 
 ## Local subtitle formatting
