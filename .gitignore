@@ -1,4 +1,6 @@
 generated/
+__pycache__/
+*.pyc
 *.srt
 *.vtt
 *.original-subtitles.md
