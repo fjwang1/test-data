@@ -10,6 +10,10 @@
 - `generated/BV11tVczFExN.chaptered-original-subtitles.md`: 已授权归档的原字幕章节阅读版，不显示字幕编号和时间戳，仅按章节分组。
 - `generated/BV11tVczFExN.article-original-subtitles.md`: 已授权归档的原字幕文章阅读版，不显示字幕编号和时间戳，按章节合并为连续段落并仅补入逗号、句号。
 - `generated/BV17jTw6REJc.article-original-subtitles.md`: 太吾车神《加盟勇士？詹姆斯到底去哪儿？四大球队最强解析！》原字幕文章阅读版。
+- `generated/BV1ujjS6YEK8.article-original-subtitles.md`: 太吾车神《字母哥加盟热火！热火被雄鹿彻底掏空！他们未来还有机会夺冠吗？》原字幕文章阅读版。
+- `generated/BV13DjB66Ebw.article-original-subtitles.md`: 太吾车神《杰伦布朗换字母哥？这笔交易行不行？布朗和塔图姆到底谁更强？》原字幕文章阅读版。
+- `generated/BV1MZ6iBDENz.article-original-subtitles.md`: 太吾车神《比弗拉格还强？康神克尼普尔到底有多强？为什么他能霸占最佳新秀？》原字幕文章阅读版。
+- `generated/BV1YzDTBqECj.article-original-subtitles.md`: 太吾车神《19岁砍50分！弗拉格到底有多强？为什么最佳新秀第一不是他？》原字幕文章阅读版。
 - `scripts/format_srt_to_markdown.py`: 本地 SRT 转 Markdown 工具，用于把已有字幕按编号和时间轴排版。
 
 ## Local subtitle formatting
